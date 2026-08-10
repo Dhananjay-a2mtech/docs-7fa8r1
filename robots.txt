@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-w21k8j.hondatoto77try.site/sitemap.xml
